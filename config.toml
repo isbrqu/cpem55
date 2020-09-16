@@ -1,7 +1,8 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "https://isbrqu.github.io/cpem55"
+languageCode = "es"
 title = "CPEM 55"
 theme = "hugo-geekdoc"
+defaultContentLanguage = "es"
 
 # Geekdoc required configuration
 pygmentsUseClasses = true
