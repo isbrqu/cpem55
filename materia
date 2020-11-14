@@ -1,0 +1,36 @@
+#!/bin/bash
+
+hugo new turnos/vespertino/primero/biologia.md
+hugo new turnos/vespertino/primero/doctrina-politica-y-economica.md
+hugo new turnos/vespertino/primero/educacion-civica.md
+hugo new turnos/vespertino/primero/historia-y-geografia.md
+hugo new turnos/vespertino/primero/informatica-1.md
+hugo new turnos/vespertino/primero/ingles.md
+hugo new turnos/vespertino/primero/lengua-y-literatura.md
+hugo new turnos/vespertino/primero/matematica.md
+hugo new turnos/vespertino/primero/problematicas-contemporaneas.md
+hugo new turnos/vespertino/primero/tecnicas-de-trabajo-intelectual.md
+
+hugo new turnos/vespertino/segundo/accion-social.md
+hugo new turnos/vespertino/segundo/educacion-para-la-salud.md
+hugo new turnos/vespertino/segundo/filosofia-psicologia.md
+hugo new turnos/vespertino/segundo/fisica.md
+hugo new turnos/vespertino/segundo/fundamentos-de-la-educacion.md
+hugo new turnos/vespertino/segundo/historia-de-la-cultura.md
+hugo new turnos/vespertino/segundo/historia-y-geografia.md
+hugo new turnos/vespertino/segundo/informatica-2.md
+hugo new turnos/vespertino/segundo/ingles.md
+hugo new turnos/vespertino/segundo/lengua-y-literatura.md
+hugo new turnos/vespertino/segundo/matematica.md
+
+hugo new turnos/vespertino/tercero/historia-y-geografia.md
+hugo new turnos/vespertino/tercero/informatica-3.md
+hugo new turnos/vespertino/tercero/ingles.md
+hugo new turnos/vespertino/tercero/introduccion-al-estudio-de-la-cultura-y-sociedad.md
+hugo new turnos/vespertino/tercero/investigacion-planificacion-y-ejecucion-social-cultural.md
+hugo new turnos/vespertino/tercero/literatura.md
+hugo new turnos/vespertino/tercero/matematica.md
+hugo new turnos/vespertino/tercero/problematica-filosofica.md
+hugo new turnos/vespertino/tercero/psicologia-de-la-personalidad.md
+hugo new turnos/vespertino/tercero/quimica.md
+
